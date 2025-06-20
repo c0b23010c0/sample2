@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Xb2cUYWsyY?si=2XpAuPB_03kJ0D8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
